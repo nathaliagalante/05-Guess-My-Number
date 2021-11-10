@@ -1,4 +1,4 @@
-# guess my number
+# Guess my number
 ## Mini game developed to practice javascript.
 
 - In this game, you have to guess which number is hide behind the interrogation element
